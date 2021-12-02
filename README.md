@@ -10,6 +10,7 @@ Get 4 inputs fro  the user
 calulate the distance between 2 points by using the formula
 ### Step 3: 
 Substitute the values in the distance formula  
+
 ![github logo](formula.png) 
 ### Step 4: 
 Print the output
